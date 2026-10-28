@@ -5,7 +5,7 @@
  * Version: 1.0.0
  * Requires at least: 5.0
  * Requires PHP: 7.2
- * License: GPL-2.0-or-later
+ * * License: GPL-3.0-or-later
  * Text Domain: upload-plugin-shortcut
  */
 
